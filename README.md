@@ -31,9 +31,11 @@ The dataset consists of four sheets:
 
 ## 📊 Report Pages & Visualizations
 ### 1. **Start**
+![Start Page](screenshots/start.PNG)
 - **Purpose**: Introduces the project and provides a "Start" button for navigation to the Overview page.
 
 ### 2. **Overview**
+![Overview Page](screenshots/overview.PNG)
 - **Visuals**:
   - **Cards**: Summarize `Total Customers`, `Total Orders`, `Total Units Sold`, and `Average Net Sales`.
   - **Clustered Bar Chart**: Highlights average discount by promotion categories.
@@ -45,18 +47,22 @@ The dataset consists of four sheets:
   - **Slicer**: Enables filtering by product names for dynamic analysis.
 
 ### 3. **Trends**
+![Trends Page](screenshots/trends.PNG)
 - **Line Charts**: Visualize net sales trends across daily, monthly, quarterly, and yearly intervals.
 
 ### 4. **Product Analysis**
+![Product Analysis Page](screenshots/product_analysis.PNG)
 - **Stacked Bar Charts**:
   - Show top 5 products by `Sales`, `Quantity`, and `Profit`.
   - Highlight bottom 5 products by the same metrics.
 
 ### 5. **Dynamic Comparison**
+![Dynamic Comparison Page](screenshots/dynamic_comparison.PNG)
 - **Date Slicers**: Allow users to compare metrics across two selected periods.
 - **Bar Charts**: Represent `Total Sales`, `Total Profit`, and `Total Quantity` for each selected period.
 
 ### 6. **Detailed Breakdown**
+![Detailed Breakdown Page](screenshots/detailed_breakdown.PNG)
 - **Table**: Provides a comprehensive view of transactional data.
 - **Slicers**: Enable filtering by `Date`, `Customer ID`, `Product Name`, `Promotion Name`, and `City`.
 - **Custom Measure**: Ensures slicers interact seamlessly for dynamic filtering.
